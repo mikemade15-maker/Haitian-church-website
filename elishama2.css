@@ -1,0 +1,24 @@
+h1{ background-color: blueviolet;}
+body{background-color: burlywood;}
+img{background-color:#746819;}
+#pastor{ width: 400px; height:1800 px;
+border-width:20px;border-color:rgb(87, 10, 117); border-style:double;}
+.church{height:80%;width:50%;}
+h2{background-color:yellow;height:50%; padding: auto;width:50%
+}
+img{width:50%;height:50%;border-style:solid;50px;border-color:yellow;
+}
+#logo{width:200px;height: 100px;}
+ul{box-sizing: border-box;}
+a{display:block;position:relative;left:80%}
+
+form{background-color:rgb(68, 69, 8);
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px auto;}
+ @media(max-width:800px){
+body {background-color:rgb(182, 248, 83);}
+img{transition:1s}
+form{margin:auto}
+a{display:block;position:relative;left:40%}
